@@ -5,7 +5,7 @@ Hi, I'm Alex Corrêa, I am a dev passionate about technology!
 This is the space where I spend most of my time where, imagination and creativity become code.
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/alex-correa-de-lima/)
-- 📫 How to reach me: [@alexzz_lima]((https://www.instagram.com/alexzz_lima/);
+- 📫 How to reach me: [@alexzz_lima](https://www.instagram.com/alexzz_lima/);
 
 
 <br />
@@ -13,7 +13,7 @@ This is the space where I spend most of my time where, imagination and creativit
 ### Connect with me:
 
 <p>
-<a href="(https://www.instagram.com/alexzz_lima/)">
+<a href="https://www.instagram.com/alexzz_lima/">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alex-correa-de-lima/">
