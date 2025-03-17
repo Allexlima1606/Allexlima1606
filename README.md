@@ -7,7 +7,7 @@ This is the space where I spend most of my time where, imagination and creativit
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/alex-correa-de-lima/)
 - 📫 How to reach me: [@alexzz_lima](https://www.instagram.com/alexzz_lima/);
 
-
+##
 <br />
 
 ### Connect with me:
@@ -21,13 +21,12 @@ This is the space where I spend most of my time where, imagination and creativit
 </a>
 </p>
 <br />
-<br />
 
 
-<p align="left">
- <br />
- Languages and Tools:
- </p>
+##
+
+ ### Languages and Tools:
+ 
 <br />
 
   <div style="display: inline_block" align="center"><br>
@@ -41,8 +40,11 @@ This is the space where I spend most of my time where, imagination and creativit
    
 <br />
 
+##
+
 [![Alex github stats](https://github-readme-stats.vercel.app/api?username=Allexlima1606&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
+##
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allexlima1606&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
