@@ -5,7 +5,7 @@ Hi, I'm Alex Corrêa, I am a dev passionate about technology!
 This is the space where I spend most of my time where, imagination and creativity become code.
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/alex-correa-de-lima/)
-- 📫 How to reach me: [@_Alex]((https://www.instagram.com/alexzz_lima/);
+- 📫 How to reach me: [@alexzz_lima]((https://www.instagram.com/alexzz_lima/);
 
 
 <br />
