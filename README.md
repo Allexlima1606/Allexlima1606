@@ -38,19 +38,14 @@ This is the space where I spend most of my time where, imagination and creativit
   <img align="center" alt="Mah-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mah-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Mah-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+   
 <br />
 
-[![Alex github stats](https://github-readme-stats.vercel.app/api?username=rodolfomori&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+[![Alex github stats](https://github-readme-stats.vercel.app/api?username=Allexlima1606&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomori&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allexlima1606&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
 <br>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allexlima1606)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allexlima1606)](https://github.com/anuraghazra/github-readme-stats)
